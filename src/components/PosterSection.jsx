@@ -42,7 +42,7 @@ export default function PosterSection({ date, festivalData }) {
 
   console.log(groupItems);
   return (
-    <div className="linear-container">
+    <div className="lineup-container">
       <div className="day-container">
         <h3>{date}</h3>
       </div>
