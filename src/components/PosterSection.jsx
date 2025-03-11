@@ -39,6 +39,8 @@ export default function PosterSection({ date, festivalData }) {
       </p>
     );
   });
+
+  console.log(groupItems);
   return (
     <div className="linear-container">
       <div className="day-container">
